@@ -5,7 +5,14 @@ I am passionate about technology and software development, currently focused on 
 ### 🚀 About Me 
 * 💻 Currently working as a **QA Frontend Intern**.
 * 🎓 Computer Science student at the Faculty of Sciences, UNAM.
-* ⚙️ I0m currently developing my skills in automated testing, debugging, and system monitoring.
+* ⚙️ I'm currently developing my skills in automated testing, debugging, and system monitoring.
+
+### ⚡ Fun Facts
+* When I'm not coding or running automation suites, you'll probably find me playing on my Xbox.
+* Huge fan of Twice and their *Formula of Love: O+T=<3* album! and Dua Lipa.
+* I take care of my pet Bubu every day. 🐶
+
+<br>
 
 ### 🛠️ Tools & Technologies
 
@@ -33,12 +40,26 @@ I am passionate about technology and software development, currently focused on 
 
 <br>
 
-### ⚡ Fun Facts
-* When I'm not coding or running automation suites, you'll probably find me playing on my Xbox.
-* Huge fan of Twice and their *Formula of Love: O+T=<3* album! and Dua Lipa.
-* I take care of my pet Bubu every day. 🐶
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HermesADD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=HermesADD&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HermesADD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HermesADD&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
+
+<br>
 
 ### 📫 How to reach me
-* [LinkedIn](www.linkedin.com/in/hermes-alberto-delgado-diaz-a8a2112a8)
-* [Email](mailto:hermes.ciencias@gmail.com)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/hermes-alberto-delgado-diaz-a8a2112a8" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo" />
+  </a>
+  <a href="mailto:hermes.ciencias@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="37" alt="gmail logo" />
+  </a>
+</div>
 
