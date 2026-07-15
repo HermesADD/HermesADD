@@ -44,7 +44,6 @@ I am passionate about technology and software development, currently focused on 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HermesADD&theme=dracula&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HermesADD&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="stats graph" />
 </div>
 
 <br>
