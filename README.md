@@ -35,7 +35,7 @@ I am passionate about technology and software development, currently focused on 
 
 ### ⚡ Fun Facts
 * When I'm not coding or running automation suites, you'll probably find me playing on my Xbox.
-* Huge fan of Twice and their *Formula of Love* album! and Dua Lipa.
+* Huge fan of Twice and their *Formula of Love: O+T=<3* album! and Dua Lipa.
 * I take care of my pet Bubu every day. 🐶
 
 ### 📫 How to reach me
